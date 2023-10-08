@@ -1,0 +1,42 @@
+body{
+    background: #637b3e;
+    color: #d9c7c7;
+    font-family: Arial;
+}
+    
+img{
+        width: 300px;
+        border-radius: 10px;
+    }
+
+p {
+    width:450px;
+    font-size:19px;
+}
+
+a {
+    background: #242c17;
+    padding: 8px 20px;
+    color: #8ba85d;
+    text-decoration: none;
+}
+
+
+.menu-link {
+/*    background: none;*/
+/*    color: aqua*/
+    transition: 1s;
+    border-radius: 0;
+}
+
+
+.menu-link:hover {
+    background: #44532c;
+}
+
+
+.conteiner {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
